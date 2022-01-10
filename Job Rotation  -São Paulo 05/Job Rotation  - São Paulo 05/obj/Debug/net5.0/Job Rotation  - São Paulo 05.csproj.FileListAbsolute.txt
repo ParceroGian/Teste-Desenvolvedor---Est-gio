@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\bin\Debug\net5.0\Job Rotation  - São Paulo 05.exe
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\bin\Debug\net5.0\Job Rotation  - São Paulo 05.deps.json
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\bin\Debug\net5.0\Job Rotation  - São Paulo 05.runtimeconfig.json
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\bin\Debug\net5.0\Job Rotation  - São Paulo 05.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\bin\Debug\net5.0\Job Rotation  - São Paulo 05.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\bin\Debug\net5.0\ref\Job Rotation  - São Paulo 05.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\bin\Debug\net5.0\Job Rotation  - São Paulo 05.pdb
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\obj\Debug\net5.0\Job Rotation  - São Paulo 05.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\obj\Debug\net5.0\Job Rotation  - São Paulo 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\obj\Debug\net5.0\Job Rotation  - São Paulo 05.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\obj\Debug\net5.0\Job Rotation  - São Paulo 05.AssemblyInfo.cs
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\obj\Debug\net5.0\Job Rotation  - São Paulo 05.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\obj\Debug\net5.0\Job Rotation  - São Paulo 05.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\obj\Debug\net5.0\ref\Job Rotation  - São Paulo 05.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\obj\Debug\net5.0\Job Rotation  - São Paulo 05.pdb
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation  - São Paulo 05\Job Rotation  - São Paulo 05\obj\Debug\net5.0\Job Rotation  - São Paulo 05.genruntimeconfig.cache

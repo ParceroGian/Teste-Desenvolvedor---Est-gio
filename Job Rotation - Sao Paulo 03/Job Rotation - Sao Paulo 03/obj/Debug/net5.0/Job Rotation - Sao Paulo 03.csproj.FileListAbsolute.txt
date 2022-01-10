@@ -1,0 +1,21 @@
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\bin\Debug\net5.0\Job Rotation - Sao Paulo 03.exe
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\bin\Debug\net5.0\Job Rotation - Sao Paulo 03.deps.json
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\bin\Debug\net5.0\Job Rotation - Sao Paulo 03.runtimeconfig.json
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\bin\Debug\net5.0\Job Rotation - Sao Paulo 03.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\bin\Debug\net5.0\Job Rotation - Sao Paulo 03.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\bin\Debug\net5.0\Job Rotation - Sao Paulo 03.pdb
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\bin\Debug\net5.0\DotLiquid.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\bin\Debug\net5.0\it\DotLiquid.resources.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\Job Rotation - Sao Paulo 03.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\Job Rotation - Sao Paulo 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\Job Rotation - Sao Paulo 03.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\Job Rotation - Sao Paulo 03.AssemblyInfo.cs
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\Job Rotation - Sao Paulo 03.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\Job Rotation - Sao Paulo 03.csproj.CopyComplete
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\Job Rotation - Sao Paulo 03.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\ref\Job Rotation - Sao Paulo 03.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\Job Rotation - Sao Paulo 03.pdb
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\Job Rotation - Sao Paulo 03.genruntimeconfig.cache
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\obj\Debug\net5.0\refint\Job Rotation - Sao Paulo 03.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Curso C# UDEMY\exercicio POO\Job Rotation\Job Rotation - Sao Paulo 03\Job Rotation - Sao Paulo 03\bin\Debug\net5.0\dados.json
