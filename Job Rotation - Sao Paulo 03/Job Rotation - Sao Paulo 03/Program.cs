@@ -63,7 +63,24 @@ namespace Job_Rotation___Sao_Paulo_03
             
             Console.WriteLine($"O menor valor do mês ocorre no dia {indiceMenor + 1} Valor: R$ {vetor[indiceMenor]}");
             Console.WriteLine($"O maior valor do mês ocorre no dia {indiceMaior + 1} Valor: R$ {vetor[indiceMaior]}");
+            Console.WriteLine();
+            Console.WriteLine($"Média mensal: {media:F4}");
             Console.WriteLine($"{m} dia(s) o faturamento foi superior a media mensal");
+            Console.WriteLine();
+
+
+            for (int i = 0; i < count; i++)
+            {
+                if (dados[i].valor != 0)
+                {
+                    if (dados[i].valor > media)
+                    {
+                        Console.WriteLine($"O dia {dados[i].dia} Valor: R$ {vetor[i]} foi superor a média mensal");
+                    }
+                }
+            }
+
+            
 
 
 
